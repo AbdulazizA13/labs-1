@@ -1,0 +1,42 @@
+body {
+  background-color: #F2FBFF;
+  font-family: "Times New Roman", "Times New Roman", serif;
+  margin: 15px;
+}
+
+h1 {
+  color: #0056B3;
+  font-size: 4em;
+  text-align: left;
+}
+
+
+p {
+  color: #2C2C6B;
+  padding: 12px;
+  margin: 12px 0;
+  line-height: 1.6;
+}
+
+
+ol {
+  margin: 15px 0;
+  padding-left: 15px;
+  color: #333333;
+}
+
+
+img {
+  max-width: 30%;
+  height: 50%;
+  display:  inline-block;
+  margin: 9px auto;
+}
+
+a {
+  color: #2C2C6B;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
